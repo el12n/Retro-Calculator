@@ -13,6 +13,7 @@
 		209895B31DC397FC003CAEE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 209895B21DC397FC003CAEE4 /* Assets.xcassets */; };
 		209895B61DC397FC003CAEE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 209895B41DC397FC003CAEE4 /* LaunchScreen.storyboard */; };
 		209895C31DC3E851003CAEE4 /* Minecraftia.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 209895C21DC3E851003CAEE4 /* Minecraftia.ttf */; };
+		209895C51DC76D90003CAEE4 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 209895C41DC76D90003CAEE4 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		209895B51DC397FC003CAEE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		209895B71DC397FC003CAEE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		209895C21DC3E851003CAEE4 /* Minecraftia.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraftia.ttf; sourceTree = "<group>"; };
+		209895C41DC76D90003CAEE4 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		209895AA1DC397FC003CAEE4 /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				209895C41DC76D90003CAEE4 /* btn.wav */,
 				209895C21DC3E851003CAEE4 /* Minecraftia.ttf */,
 				209895AB1DC397FC003CAEE4 /* AppDelegate.swift */,
 				209895AD1DC397FC003CAEE4 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				209895C51DC76D90003CAEE4 /* btn.wav in Resources */,
 				209895C31DC3E851003CAEE4 /* Minecraftia.ttf in Resources */,
 				209895B61DC397FC003CAEE4 /* LaunchScreen.storyboard in Resources */,
 				209895B31DC397FC003CAEE4 /* Assets.xcassets in Resources */,
